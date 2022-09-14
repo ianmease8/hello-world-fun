@@ -1,10 +1,10 @@
 #here is my hello world file 
 
-i = "hello"
+i = "Hello"
 
 a = " "
 
-n = "world"   
+n = "World"   
 
 print(i + a + n)
 
