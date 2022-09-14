@@ -1,42 +1,10 @@
 #here is my hello world file 
 
-from ast import main
+i = "hello"
 
+a = " "
 
-class __main__():
-    if __name__ == "__main__":
-        main
+n = "world"   
 
-class h():
-    h
+print(i + a + n)
 
-class e():
-    e
-
-class l():
-    l
-
-class l1():
-    l1
-
-class h():
-    h
-
-class h():
-    h
-
-class h():
-    h
-
-class h():
-    h
-
-class h():
-    h
-
-class h():
-    h
-
-class h():
-    h    
-print("hello world")
