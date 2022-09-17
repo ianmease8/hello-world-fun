@@ -10,9 +10,9 @@ This is a very simple code that combines three variables each containing a strin
 
 My purpose for creating this software was to test my coding environment to insure I am able to upload to git use python and make sure this IDE works for what I need it to do.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+
+[Hello world video](https://youtu.be/8Qh_dB2Y46U)
 
 # Development Environment
 
